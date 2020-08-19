@@ -1,0 +1,9 @@
+URL: ( 0 , 0 )
+https://www.superflix.net/episodio/the-office-{0}x{1}/
+
+Quantidade total de episódios em cada temporada:
+6;22;25;19;28;26;27;24;27
+23 min/ep [0]
+
+Último episódio visto: 0 x 0 . 
+
